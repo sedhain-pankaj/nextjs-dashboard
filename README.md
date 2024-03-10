@@ -18,28 +18,28 @@ Your site is now running at `http://localhost:3000`!
 
 ## 🧐 What's inside?
 
-A quick look at the top-level files and directories you'll see in a Next.js project.
-├── .next
-├── app
-├── node_modules
-├── public
-├── scripts
-├── .env
-├── .env.local
-├── .eslintrc.json
-├── .gitignore
-├── .nvmrc
-├── .auth.config.ts
-├── .auth.ts
-├── middleware.ts
-├── next-env.d.ts
-├── next.config.js
-├── package.json
-├── package-lock.json
-├── postcss.config.js
-├── prettier.config.js
-├── README.md
-├── tailwind.config.ts
+A quick look at the top-level files and directories you'll see in a Next.js project.<br>
+├── .next<br>
+├── app<br>
+├── node_modules<br>
+├── public<br>
+├── scripts<br>
+├── .env<br>
+├── .env.local<br>
+├── .eslintrc.json<br>
+├── .gitignore<br>
+├── .nvmrc<br>
+├── .auth.config.ts<br>
+├── .auth.ts<br>
+├── middleware.ts<br>
+├── next-env.d.ts<br>
+├── next.config.js<br>
+├── package.json<br>
+├── package-lock.json<br>
+├── postcss.config.js<br>
+├── prettier.config.js<br>
+├── README.md<br>
+├── tailwind.config.ts<br>
 └── tsconfig.json
 
 ## 📝 Notes
